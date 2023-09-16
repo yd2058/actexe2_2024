@@ -21,7 +21,7 @@
         <Space
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_weight="0.25" />
+            android:layout_weight="0.125" />
 
         <ListView
             android:id="@+id/count"
@@ -34,7 +34,7 @@
         <Space
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_weight="0.25" />
+            android:layout_weight="0.125" />
 
         <LinearLayout
             android:layout_width="0dp"
@@ -70,7 +70,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
-                android:text="Population" />
+                android:text="Population Size" />
 
             <Space
                 android:layout_width="match_parent"
@@ -94,13 +94,13 @@
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
-                android:text="Anthem name" />
+                android:text="National Anthem" />
         </LinearLayout>
 
         <Space
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_weight="0.25" />
+            android:layout_weight="0.125" />
     </LinearLayout>
 
     <Space
